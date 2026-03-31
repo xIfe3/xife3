@@ -79,7 +79,8 @@ const ifeanyi = {
         <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
       </p>
-      <a href="https://github.com/zephradev/flowanalytics">📁 GitHub</a>
+      <a href="https://github.com/zephradev/flowanalytics">📁 GitHub</a> &nbsp;|&nbsp;
+      <a href="https://flowanalytics-zephra.vercel.app">🌍 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>💸 PayZeph</h3>
@@ -90,7 +91,8 @@ const ifeanyi = {
         <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/zephradev/payzeph">📁 GitHub</a>
+      <a href="https://github.com/zephradev/payzeph">📁 GitHub</a> &nbsp;|&nbsp;
+      <a href="https://payzeph-zephra-web.vercel.app">🌍 Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -101,7 +103,7 @@ const ifeanyi = {
         <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
       </p>
-      <a href="https://github.com/kudi">📁 GitHub</a>
+      <a href="https://github.com/ifeanyi-onyekwelu">📁 GitHub</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏠 Letsten — Property Rental</h3>
@@ -117,16 +119,15 @@ const ifeanyi = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Savvio Budget Expense Tracker</h3>
+      <h3>📈 Savvio — Budget Expense Tracker</h3>
       <p>Personal finance tracking tool with category budgets, expense logging, and spending insights dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/savvio">📁 GitHub</a>
-      <span> </span>
-      <a href="https://savvio-budgetting.vercel.app" target="_blank">🌍 Live URL</a>
+      <a href="https://github.com/ifeanyi-onyekwelu">📁 GitHub</a> &nbsp;|&nbsp;
+      <a href="https://savvio-budgetting.vercel.app">🌍 Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>📅 MediBook</h3>
@@ -136,7 +137,8 @@ const ifeanyi = {
         <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/zephra/medibook">📁 GitHub</a>
+      <a href="https://github.com/zephra/medibook">📁 GitHub</a> &nbsp;|&nbsp;
+      <a href="https://medibook-zephra.vercel.app">🌍 Live Demo</a>
     </td>
   </tr>
 </table>
@@ -147,10 +149,10 @@ const ifeanyi = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xife3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xife3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ifeanyi-onyekwelu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyi-onyekwelu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=xife3&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ifeanyi-onyekwelu&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 
 </div>
 
