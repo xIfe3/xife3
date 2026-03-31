@@ -145,16 +145,6 @@ const ifeanyi = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xife3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xife3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" height="165" />
-</div>
-
----
-
 ## 🏢 Zephra Studio
 
 I run **[Zephra Studio](https://zephra.dev)** — a dev agency helping startups and businesses build production-ready web and mobile products.
