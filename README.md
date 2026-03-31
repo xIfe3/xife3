@@ -112,7 +112,7 @@ const ifeanyi = {
         <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
       </p>
-      <a href="https://github.com/ifeanyi-onyekwelu">📁 GitHub</a>
+      <a href="https://github.com/kedusoft">📁 GitHub</a>
     </td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@ const ifeanyi = {
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/ifeanyi-onyekwelu">📁 GitHub</a>
+      <a href="https://github.com/savvio">📁 GitHub</a>
     </td>
     <td width="50%" valign="top">
       <h3>📅 MediBook</h3>
@@ -134,7 +134,7 @@ const ifeanyi = {
         <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/ifeanyi-onyekwelu">📁 GitHub</a>
+      <a href="https://github.com/medibook">📁 GitHub</a>
     </td>
   </tr>
 </table>
