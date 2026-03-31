@@ -151,8 +151,6 @@ const ifeanyi = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=xife3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xife3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=xife3&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 </div>
 
 ---
