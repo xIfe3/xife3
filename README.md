@@ -117,7 +117,7 @@ const ifeanyi = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Budget Expense Tracker</h3>
+      <h3>📈 Savvio Budget Expense Tracker</h3>
       <p>Personal finance tracking tool with category budgets, expense logging, and spending insights dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" />
@@ -125,6 +125,7 @@ const ifeanyi = {
         <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
       <a href="https://github.com/savvio">📁 GitHub</a>
+      <a href="[https://github.com/savvio](https://savvio-budgetting.vercel.app/)">Live Url</a>
     </td>
     <td width="50%" valign="top">
       <h3>📅 MediBook</h3>
