@@ -126,7 +126,7 @@ const ifeanyi = {
       </p>
       <a href="https://github.com/savvio">📁 GitHub</a>
       <span> </span>
-      <a href="https://savvio-budgetting.vercel.app">🌍 Live URL</a>
+      <a href="https://savvio-budgetting.vercel.app" target="_blank">🌍 Live URL</a>
     </td>
     <td width="50%" valign="top">
       <h3>📅 MediBook</h3>
