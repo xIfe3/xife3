@@ -125,7 +125,7 @@ const ifeanyi = {
         <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       </p>
       <a href="https://github.com/savvio">📁 GitHub</a>
-      <br />
+      <span> </span>
       <a href="https://savvio-budgetting.vercel.app">🌍 Live URL</a>
     </td>
     <td width="50%" valign="top">
