@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:05050a,50:1e1b4b,100:6366f1&height=240&section=header&text=IFEANYI%20ONYEKWELU&fontSize=54&fontColor=e0e7ff&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%C2%B7%20Founder%20%40%20Zephra%20Studio&descColor=a5b4fc&descSize=18&descAlignY=62" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A5B4FC&center=true&vCenter=true&width=760&height=40&lines=Shipping+fintech+at+Babelos+%E2%86%92+Moniger;Building+multi-tenant+AI+products+at+Zephra;RAG+%C2%B7+Tool+Calling+%C2%B7+Agents+%C2%B7+Vector+Search;Turning+ideas+into+production-grade+software" alt="typing" />
-</a>
+<img src="https://raw.githubusercontent.com/xife3/xife3/main/assets/terminal.svg" width="720" alt="terminal intro" />
 
 <br/>
 
@@ -162,18 +160,11 @@ flowchart LR
 
 ---
 
-## 📡 Live GitHub Telemetry
+## 📊 Engineering Output
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xife3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=6366f1&text_color=c9d1d9&rank_icon=github" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xife3&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="languages" />
-
-<img src="https://streak-stats.demolab.com?user=xife3&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=a5b4fc&currStreakLabel=a5b4fc" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xife3&bg_color=0d1117&color=a5b4fc&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true" alt="activity" />
-
-<img src="https://raw.githubusercontent.com/xife3/xife3/output/github-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/xife3/xife3/main/assets/stats.svg" width="760" alt="engineering output" />
 
 </div>
 
@@ -193,10 +184,13 @@ flowchart LR
 
 ## 🎯 Currently
 
-- 🔭 Building out **Zephra AI Suite**
-- 🌱 Leveling up on **DevOps, Docker and system design**
-- 🎓 Studying Computer Science at Godfrey Okoye University
-- 💬 Ask me about **NestJS, multi-tenant architecture, RAG and fintech backends**
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/xife3/xife3/main/assets/status.svg" width="760" alt="system status" />
+
+</div>
+
+💬 Ask me about **NestJS, multi-tenant architecture, RAG and fintech backends**.
 
 <div align="center">
 
