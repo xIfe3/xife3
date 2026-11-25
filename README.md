@@ -1,162 +1,203 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6366f1&height=200&section=header&text=Ifeanyi%20Onyekwelu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Founder%20%40%20Zephra%20Studio&descColor=a5b4fc&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05050a,50:1e1b4b,100:6366f1&height=240&section=header&text=IFEANYI%20ONYEKWELU&fontSize=54&fontColor=e0e7ff&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%C2%B7%20Founder%20%40%20Zephra%20Studio&descColor=a5b4fc&descSize=18&descAlignY=62" width="100%" alt="header" />
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A5B4FC&center=true&vCenter=true&width=760&height=40&lines=Shipping+fintech+at+Babelos+%E2%86%92+Moniger;Building+multi-tenant+AI+products+at+Zephra;RAG+%C2%B7+Tool+Calling+%C2%B7+Agents+%C2%B7+Vector+Search;Turning+ideas+into+production-grade+software" alt="typing" />
+</a>
 
 <br/>
 
-<div align="center">
-
+[![Portfolio](https://img.shields.io/badge/xife3.space-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://xife3.space)
+[![Zephra](https://img.shields.io/badge/zephra.dev-0f0f0f?style=for-the-badge&logo=lightning&logoColor=6366f1)](https://zephra.dev)
+[![X](https://img.shields.io/badge/@ifeanyicodes__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ifeanyicodes_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeanyichukwu-onyekwelu-36b93922b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://iffeanyi.vercel.app)
-[![Agency](https://img.shields.io/badge/Zephra%20Studio-0f0f0f?style=for-the-badge&logo=lightning&logoColor=6366f1)](https://zephra.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifeanyionyekwelu786@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=xife3&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" alt="views" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## `> whoami`
 
-I'm a **Full-Stack Engineer** with 5+ years of experience building scalable web and mobile products — from fintech platforms to SaaS tools. I'm currently a Full-Stack Engineer at **Babelos Ltd**, working on [Moniger](https://moniger.com), a personal finance app.
+I'm a **Full-Stack AI Engineer** with 5+ years of experience building web, mobile and backend systems, from fintech to multi-tenant SaaS. By day I build **[Moniger](https://moniger.com)** at **Babelos Ltd**. By night I run **[Zephra Studio](https://zephra.dev)**, an agency in Enugu, Nigeria that ships production-ready products for founders and businesses.
 
-I also run **[Zephra Studio](https://zephra.dev)** — a software development agency based in Enugu, Nigeria, where I help founders and businesses turn ideas into production-ready digital products.
+Right now I'm going deep on **applied AI**: retrieval pipelines, vector embeddings, tool-calling agents and the infrastructure that keeps them reliable.
 
 ```ts
-const ifeanyi = {
-  role:      "Full-Stack Engineer",
-  agency:    "Zephra Studio — zephra.dev",
-  currently: "Building Moniger @ Babelos Ltd",
-  stack:     ["NestJS", "Next.js", "TypeScript", "PostgreSQL", "React Native"],
-  learning:  ["DevOps", "Docker", "System Design"],
-  openTo:    "Remote contract roles & client projects",
-};
+export const ifeanyi = {
+  role:      "Full-Stack AI Engineer",
+  day_job:   "Moniger @ Babelos Ltd",
+  founder:   "Zephra Studio (zephra.dev)",
+  based_in:  "Enugu, Nigeria 🇳🇬",
+  core:      ["TypeScript", "NestJS", "Next.js", "PostgreSQL", "React Native"],
+  ai:        ["RAG", "Vector Embeddings", "Tool Calling", "Vercel AI SDK"],
+  leveling:  ["DevOps", "Docker", "System Design", "Self-hosting"],
+  studying:  "B.Sc. Computer Science @ Godfrey Okoye University",
+  openTo:    ["Remote contracts", "Client projects", "Interesting problems"],
+} as const;
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
-### Backend
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
+<div align="center">
 
-### Frontend & Mobile
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+| Layer | Stack |
+|:--|:--|
+| **Backend** | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black) |
+| **AI** | ![Vercel AI SDK](https://img.shields.io/badge/-Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-6366F1?style=flat-square) ![Embeddings](https://img.shields.io/badge/-Vector%20Embeddings-6366F1?style=flat-square) ![Tool Calling](https://img.shields.io/badge/-Tool%20Calling-6366F1?style=flat-square) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![AWS SES](https://img.shields.io/badge/-AWS%20SES-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![AWS SES](https://img.shields.io/badge/-AWS%20SES-232F3E?style=flat&logo=amazonaws&logoColor=white)
+</div>
+
+---
+
+## 🧠 How I Build AI Features
+
+The pattern I reach for when shipping retrieval-backed AI inside a multi-tenant product:
+
+```mermaid
+flowchart LR
+    U([User]) --> C[Next.js / React Native client]
+    C --> API[NestJS API<br/>auth · tenancy · rate limits]
+    API --> Q[(Redis queue)]
+    Q --> W[Workers<br/>chunk · embed · ingest]
+    W --> DB[(PostgreSQL<br/>+ vector index)]
+    API --> R[Retriever]
+    R --> DB
+    R --> L{{LLM<br/>tool calling}}
+    L --> T[Tools / integrations]
+    L --> API
+    API --> C
+```
+
+**Principles:** tenant isolation at the data layer, async ingestion so requests stay fast, typed tool contracts, and observability around every model call.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 AI Products
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 FlowAnalytics</h3>
-      <p>Multi-tenant SaaS analytics platform with team workspaces, custom dashboards, and Stripe billing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-      </p>
-      <a href="https://github.com/zephradev/flowanalytics">📁 GitHub</a> &nbsp;|&nbsp;
-      <a href="https://flowanalytics-zephra.vercel.app">🌍 Live Demo</a>
+      <h4>📬 BoxieAI (Priora)</h4>
+      <p>AI-powered unified Gmail inbox. My flagship portfolio build.</p>
+      <a href="https://boxieai.zephra.dev">🌍 Live</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💸 PayZeph</h3>
-      <p>Utility bill payment platform built as a Turborepo monorepo with NestJS microservices, Redis queues, and Drizzle ORM.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </p>
-      <a href="https://github.com/zephradev/payzeph">📁 GitHub</a> &nbsp;|&nbsp;
-      <a href="https://payzeph-zephra-web.vercel.app">🌍 Live Demo</a>
+      <h4>🧩 Zephra AI Suite</h4>
+      <p>Multi-tenant AI SaaS platform under Zephra Studio: agents, knowledge bases and automations for businesses.</p>
+      <a href="https://zephra.dev">🌍 zephra.dev</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 Kudi — Fintech Wallet</h3>
-      <p>Mobile fintech wallet app with fund management, transaction history, and modern UI built with Flutter.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-      </p>
-      <a href="https://github.com/ifeanyi-onyekwelu">📁 GitHub</a>
+      <h4>🏫 EduPro</h4>
+      <p>Multi-tenant, AI-powered school management SaaS with Paystack payments.</p>
+      <img src="https://img.shields.io/badge/-Multi--tenant-6366F1?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Paystack-00C3F7?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 Letsten — Property Rental</h3>
-      <p>Full-featured property rental SaaS with mobile app, listings management, and booking flows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-      </p>
-      <a href="https://github.com/kedusoft">📁 GitHub</a>
+      <h4>🛒 Gbam</h4>
+      <p>WhatsApp-native order, Paystack payment and delivery-update flow for Nigerian online sellers.</p>
+      <a href="https://gbam.app">🌍 gbam.app</a>
+    </td>
+  </tr>
+</table>
+
+### 💸 Fintech
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💳 Moniger</h4>
+      <p>Personal finance platform I build professionally at Babelos Ltd.</p>
+      <a href="https://moniger.com">🌍 moniger.com</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>👛 Ziippa</h4>
+      <p>My own bill-payment wallet product.</p>
+      <a href="https://ziippa.app">🌍 ziippa.app</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Savvio — Budget Expense Tracker</h3>
-      <p>Personal finance tracking tool with category budgets, expense logging, and spending insights dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      </p>
-      <a href="https://github.com/ifeanyi-onyekwelu">📁 GitHub</a> &nbsp;|&nbsp;
-      <a href="https://savvio-budgetting.vercel.app">🌍 Live Demo</a>
+      <h4>⚡ PayZeph</h4>
+      <p>Utility bill payments on a Turborepo monorepo: NestJS microservices, Redis queues, Drizzle ORM.</p>
+      <a href="https://github.com/zephradev/payzeph">📁 Code</a> · <a href="https://payzeph-zephra-web.vercel.app">🌍 Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📅 MediBook</h3>
-      <p>Doctor appointment booking platform with real-time slot management and patient-doctor communication.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      </p>
-      <a href="https://github.com/zephra/medibook">📁 GitHub</a> &nbsp;|&nbsp;
-      <a href="https://medibook-zephra.vercel.app">🌍 Live Demo</a>
+      <h4>📈 Savvio</h4>
+      <p>Budget and expense tracker with category budgets and spending insights.</p>
+      <a href="https://savvio-budgetting.vercel.app">🌍 Demo</a>
+    </td>
+  </tr>
+</table>
+
+### 🏗️ SaaS & Platforms
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 FlowAnalytics</h4>
+      <p>Multi-tenant analytics SaaS: team workspaces, custom dashboards, Stripe billing.</p>
+      <a href="https://github.com/zephradev/flowanalytics">📁 Code</a> · <a href="https://flowanalytics-zephra.vercel.app">🌍 Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🩺 MediBook</h4>
+      <p>Doctor appointment platform with real-time slot management.</p>
+      <a href="https://github.com/zephra/medibook">📁 Code</a> · <a href="https://medibook-zephra.vercel.app">🌍 Demo</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏢 Zephra Studio
-
-I run **[Zephra Studio](https://zephra.dev)** — a dev agency helping startups and businesses build production-ready web and mobile products.
-
-> **Services:** Web Apps · Mobile Apps · APIs & Backends · SaaS Products  
-> **Stack:** Next.js · NestJS · TypeScript · PostgreSQL · React Native · Flutter  
-> **Contact:** [hello@zephra.dev](mailto:hello@zephra.dev)
-
----
+## 📡 Live GitHub Telemetry
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f0f0f&height=100&section=footer" width="100%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xife3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=6366f1&text_color=c9d1d9&rank_icon=github" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xife3&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="languages" />
+
+<img src="https://streak-stats.demolab.com?user=xife3&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=a5b4fc&currStreakLabel=a5b4fc" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xife3&bg_color=0d1117&color=a5b4fc&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true" alt="activity" />
+
+</div>
+
+---
+
+## 🏢 Zephra Studio
+
+> **We build production-ready software for founders who want to ship.**
+
+| | |
+|:--|:--|
+| **Services** | Web apps · Mobile apps · APIs & backends · SaaS · AI integrations |
+| **Stack** | Next.js · NestJS · TypeScript · PostgreSQL · React Native |
+| **Start a project** | [hello@zephra.dev](mailto:hello@zephra.dev) · [zephra.dev](https://zephra.dev) |
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building out **Zephra AI Suite**
+- 🌱 Leveling up on **DevOps, Docker and system design**
+- 🎓 Studying Computer Science at Godfrey Okoye University
+- 💬 Ask me about **NestJS, multi-tenant architecture, RAG and fintech backends**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:05050a&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
